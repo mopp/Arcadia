@@ -5,6 +5,7 @@ But the latest one was changed drastically. Then, I decided to fork and customiz
 
 ![Screenshot](https://user-images.githubusercontent.com/11221489/27363744-2651160c-55eb-11e7-94e4-3f72887926e4.png)
 
+
 ## How to use
 
 ```vim
@@ -13,12 +14,11 @@ call dein#add('mopp/autodirmake.vim')
 colorscheme arcadia
 ```
 
-:octocat: Special Thanks
------------------
+## :octocat: Special Thanks
 [Terminal Theme by Michael Reinhardt](https://github.com/mreinhardt)  
 
-:octopus: Moar Colorschemes
--------
+
+## :octopus: Moar Colorschemes
 [Alduin](https://github.com/AlessandroYorba/Alduin)  
 [Despacio](https://github.com/AlessandroYorba/Despacio)  
 [Sierra](https://github.com/AlessandroYorba/Sierra)
