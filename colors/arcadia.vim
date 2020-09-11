@@ -128,7 +128,7 @@ highlight! SpellLocal             guifg=#5f875f  guibg=NONE     gui=undercurl  c
 highlight! SpellCap               guifg=#87afff  guibg=NONE     gui=undercurl  ctermfg=111    ctermbg=NONE  cterm=undercurl
 highlight! SpellRare              guifg=#ff8700  guibg=NONE     gui=undercurl  ctermfg=208    ctermbg=NONE  cterm=undercurl
 
-highlight! Normal                 guifg=#dfdfdf  guibg=#262626  gui=NONE     ctermfg=188   ctermbg=235   cterm=NONE
+highlight! Normal                 guifg=#ABB2BF  guibg=#282C34  gui=NONE     ctermfg=145   ctermbg=235   cterm=NONE
 highlight! TabLineFill            guifg=NONE     guibg=#1c1c1c  gui=NONE     ctermfg=NONE  ctermbg=234   cterm=NONE
 
 highlight! CursorLine             guifg=NONE     guibg=#303030  gui=NONE     ctermfg=NONE  ctermbg=236   cterm=NONE
