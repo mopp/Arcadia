@@ -112,9 +112,9 @@ highlight! SpecialComment         guifg=#5f5f87  guibg=NONE     gui=reverse    c
 highlight! VimCommentTitle        guifg=#005f5f  guibg=NONE     gui=reverse    ctermfg=23     ctermbg=NONE  cterm=reverse
 
 highlight! PmenuSel               guifg=#eeeeee  guibg=#5f5f87  gui=NONE       ctermfg=255    ctermbg=60    cterm=NONE
-highlight! Pmenu                  guifg=#8787af  guibg=#5f5f87  gui=NONE       ctermfg=103    ctermbg=60    cterm=NONE
+highlight! Pmenu                  guifg=#1c1c1c  guibg=#5f5f87  gui=NONE       ctermfg=234    ctermbg=60    cterm=NONE
 highlight! PmenuSbar              guifg=#5f5f87  guibg=#5f5f87  gui=NONE       ctermfg=60     ctermbg=60    cterm=NONE
-highlight! PmenuThumb             guifg=#5f5f87  guibg=#5f5f87  gui=NONE       ctermfg=60     ctermbg=60    cterm=NONE
+highlight! PmenuThumb             guifg=#5f5f87  guibg=#5f5f5f  gui=NONE       ctermfg=60     ctermbg=59   cterm=NONE
 
 "FIXME:
 highlight! DiffText               guifg=#8787af  guibg=NONE     gui=reverse    ctermfg=103    ctermbg=NONE  cterm=reverse
