@@ -29,7 +29,7 @@
 " To enable Arcadia as your default colorscheme add the following  to your .vimrc:
 "   colorscheme arcadia
 
-" The default UI for Arcadia is a dark grey UI. However, depending on certain lighting conditions, 
+" The default UI for Arcadia is a dark grey UI. However, depending on certain lighting conditions,
 " time of day or personal preference, you might want to try some of the darker or lighter versions.
 " To enable, add one of the following settings to your .vimrc
 
@@ -347,25 +347,3 @@ if g:arcadia_Daybreak
     highlight! MoreMsg              guifg=#005f87  guibg=NONE     gui=NONE       ctermfg=24   ctermbg=NONE  cterm=NONE
     highlight! Question             guifg=#005f87  guibg=NONE     gui=NONE       ctermfg=24   ctermbg=NONE  cterm=NONE
 endif
-
-" LICENSE:
-
-" Copyright (c) 2017 Alessandro Yorba
-"
-" Permission is hereby granted, free of charge, to any person obtaining a copy
-" of this software and associated documentation files (the "Software"), to deal
-" in the Software without restriction, including without limitation the rights
-" to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-" copies of the Software, and to permit persons to whom the Software is
-" furnished to do so, subject to the following conditions:
-"
-" The above copyright notice and this permission notice shall be included in
-" all copies or substantial portions of the Software.
-"
-" THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-" IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-" FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-" AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-" LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-" OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-" THE SOFTWARE.
