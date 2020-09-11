@@ -140,7 +140,7 @@ highlight! StatusLine             guifg=#eeeeee  guibg=#1c1c1c  gui=NONE     cte
 highlight! StatusLineNC           guifg=#6c6c6c  guibg=#1c1c1c  gui=NONE     ctermfg=242   ctermbg=234   cterm=NONE
 highlight! VertSplit              guifg=#6c6c6c  guibg=#1c1c1c  gui=NONE     ctermfg=242   ctermbg=234   cterm=NONE
 highlight! TabLine                guifg=#5f5f87  guibg=#1c1c1c  gui=NONE     ctermfg=60    ctermbg=234   cterm=NONE
-highlight! LineNr                 guifg=#6c6c6c  guibg=#1c1c1c  gui=NONE     ctermfg=242   ctermbg=234   cterm=NONE
+highlight! LineNr                 guifg=#6c6c6c  guibg=#282C34  gui=NONE     ctermfg=242   ctermbg=235   cterm=NONE
 
 highlight! NonText                guifg=#3a3a3a  guibg=NONE     gui=NONE     ctermfg=237   ctermbg=NONE  cterm=NONE
 highlight! SpecialKey             guifg=#3a3a3a  guibg=NONE     gui=NONE     ctermfg=237   ctermbg=NONE  cterm=NONE
