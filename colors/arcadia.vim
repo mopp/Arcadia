@@ -90,7 +90,7 @@ highlight! WildMenu               guifg=#0087d7  guibg=#1c1c1c  gui=None       c
 
 highlight! WarningMsg             guifg=#dfaf00  guibg=NONE     gui=NONE       ctermfg=178    ctermbg=NONE  cterm=NONE
 highlight! Question               guifg=#dfaf00  guibg=NONE     gui=NONE       ctermfg=178    ctermbg=NONE  cterm=NONE
-highlight! MoreMsg                guifg=#dfaf00  guibg=NONE     gui=NONE       ctermfg=178    ctermbg=NONE  cterm=NONE
+highlight! MoreMsg                guifg=#d7ffaf  guibg=NONE     gui=NONE       ctermfg=193    ctermbg=NONE  cterm=NONE
 
 highlight! Type                   guifg=#af005f  guibg=NONE     gui=NONE       ctermfg=125    ctermbg=NONE  cterm=NONE
 highlight! ErrorMsg               guifg=#af005f  guibg=NONE     gui=NONE       ctermfg=125    ctermbg=NONE  cterm=NONE
