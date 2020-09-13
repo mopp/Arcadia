@@ -69,7 +69,6 @@ highlight! PreProc                guifg=#8787d7  guibg=NONE     gui=NONE       c
 highlight! Title                  guifg=#8787d7  guibg=NONE     gui=NONE       ctermfg=104    ctermbg=NONE  cterm=NONE
 
 highlight! Identifier             guifg=#8787af  guibg=NONE     gui=NONE       ctermfg=103    ctermbg=NONE  cterm=NONE
-highlight! FoldColumn             guifg=#8787af  guibg=NONE     gui=NONE       ctermfg=103    ctermbg=NONE  cterm=NONE
 
 highlight! Statement              guifg=#5f87af  guibg=NONE     gui=NONE       ctermfg=67     ctermbg=NONE  cterm=NONE
 highlight! ModeMsg                guifg=#5f87af  guibg=NONE     gui=NONE       ctermfg=67     ctermbg=NONE  cterm=NONE
@@ -146,4 +145,6 @@ highlight! NonText                guifg=#3a3a3a  guibg=NONE     gui=NONE     cte
 highlight! SpecialKey             guifg=#3a3a3a  guibg=NONE     gui=NONE     ctermfg=237   ctermbg=NONE  cterm=NONE
 
 highlight! Comment                guifg=#6c6c6c  guibg=NONE     gui=NONE     ctermfg=242   ctermbg=NONE  cterm=NONE
-highlight! Folded                 guifg=#6c6c6c  guibg=NONE     gui=NONE     ctermfg=242   ctermbg=NONE  cterm=NONE
+
+highlight! Folded                 guifg=#8e949e  guibg=#303030     gui=NONE     ctermfg=242   ctermbg=NONE  cterm=NONE
+highlight! link FoldColumn Normal
