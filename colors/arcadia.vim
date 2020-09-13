@@ -5,57 +5,6 @@
 "   \ \  \ \  \ \  \\  \\ \  \____\ \  \ \  \ \  \_\\ \ \  \ \  \ \  \
 "    \ \__\ \__\ \__\\ _\\ \_______\ \__\ \__\ \_______\ \__\ \__\ \__\
 "     \|__|\|__|\|__|\|__|\|_______|\|__|\|__|\|_______|\|__|\|__|\|__|
-
-
-" AUTHOR:       Alessandro Yorba
-" SCRIPT URL:   https://github.com/AlessandroYorba/Arcadia
-" UPDATED:      August 08, 2017
-
-
-" MAINTAINER:       Alessandro Yorba    https://github.com/AlessandroYorba
-" Terminal Theme:   Michael Reinhardt   https://github.com/mreinhardt
-
-
-" SUPPORTED ENVIRONMENTS:
-" 256 color terminals, Gui versions of vim, and Termguicolors versions of vim
-
-
-" INSTALL INSTRUCTIONS:
-" Unix users, place arcadia.vim in ~/.vim/colors
-" Windows users, place arcadia.vim in  ~\vimfiles\colors
-
-
-" MATCHING TERMINAL:
-"-------------------------------------|-----------------------------------------
-"   BASIC         HEX                 |     BASIC         HEX                  |
-"-------------------------------------|-----------------------------------------
-"   Foreground    #e4e4e4             |     Selection     #008787              |
-"   Background    #303030             |     Selected Text #1c1c1c              |
-"   Bold          #ffffff             |                                        |
-"   Links         #005cbb             |                                        |
-"-------------------------------------|-----------------------------------------
-
-"-------------------------------------|-----------------------------------------
-"   CURSOR         HEX                |                                        |
-"-------------------------------------|-----------------------------------------
-"   CursorColor   #dfdfdf             |                                        |
-"   CursorText    #303030             |                                        |
-"-------------------------------------|-----------------------------------------
-
-"-------------------------------------|-----------------------------------------
-"   NORMAL        HEX          XTERM  |      BRIGHT        HEX          XTERM  |
-"-------------------------------------|-----------------------------------------
-"   Black         #303030      0      |      brBlack       #6c6c6c      8      |
-"   Red           #870f1c      1      |      brRed         #af1c5f      9      |
-"   Green         #1c5f5f      2      |      brGreen       #008787      10     |
-"   Yellow        #af871c      3      |      brYellow      #dfaf00      11     |
-"   Blue          #1c5f87      4      |      brBlue        #5f87af      12     |
-"   Magenta       #5f1c5f      5      |      brMagenta     #875f87      13     |
-"   Cyan          #005f87      6      |      brCyan        #0087af      14     |
-"   White         #afafaf      7      |      brWhite       #e4e4e4      15     |
-"-------------------------------------|-----------------------------------------
-
-
 set background=dark
 
 highlight clear
